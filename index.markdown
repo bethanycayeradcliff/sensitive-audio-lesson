@@ -18,7 +18,3 @@ In this lesson, you will learn how to create and present annotations using AudiA
 ## Setup
 
 You will need to set up a [GitHub](https://github.com/) account in order to use the AudiAnnotate application. You might prefer to download an open-source application such as [Audacity](https://www.audacityteam.org/) to assist in generating annotations with time-stamps in the steps below, but, alternatively, you can also mark time-stamps manually on a spreadsheet. Our [documentation](https://hipstas.github.io/AudiAnnotate/documentation.html) walks you through creating a GitHub account, downloading Audacity, and creating a spreadsheet for use in AudiAnnotate.
-
---
-
-<a name="footnote1">1</a>: Kalir, J., Cantrill, C., Dean, J., & Dillon, J. (2020). Iterating the marginal syllabus: Social reading and annotation while social distancing. Journal of Technology and Teacher Education, 28(2), 463-471. 
