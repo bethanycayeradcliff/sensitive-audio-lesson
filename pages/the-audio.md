@@ -35,3 +35,9 @@ In this recording, a racial slur is used at 16:06 by a student quoting the langu
 > **_Classrooom Suggestion:_** 
 For classroom settings, make sure you follow your school’s guidelines for classroom work involving potentially upsetting or controversial material. While we recognize the value and necessity of having difficult conversations, we also recommend discussing class expectations repeatedly and prior to working with these types of materials. You may also choose to modify the lesson introductory materials to add the necessary context for the material your class is working with based on your class’s learning objectives. To minimize student harm and risk When working with sensitive audio, we recommend having a secondary recording for students who express a high level of discomfort to work with that may explore similar themes, but not include explicit or triggering language.  The Studs Terkel Radio Archive provides a number of [related resources and audio recordings](https://studsterkel.wfmt.com/classroom) geared at classroom use. 
 
+---
+
+<a name="footnote2">2</a>: Carello, J., & Butler, L. D. (2015). Practicing What We Teach: Trauma-informed Educational Practice. *Journal of Teaching in Social Work*, 35(3), 262-278. doi:10.1080/08841233.2015.1030059
+
+<a name="footnote3">3</a>: See Archives for Black Lives in Philadelphia’s (A4BLiP) ["Anti-Racist Description Resources"](https://archivesforblacklives.files.wordpress.com/2020/11/ardr_202010.pdf) (2020) for further information on archival language descisions and culturally-conscious recommendations. 
+
