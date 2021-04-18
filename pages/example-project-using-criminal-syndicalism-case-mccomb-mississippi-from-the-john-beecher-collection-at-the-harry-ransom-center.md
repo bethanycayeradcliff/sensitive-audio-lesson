@@ -19,7 +19,7 @@ In this example, layer titles represent annotation categories. Annotation catego
 > - Transcription: Selected sentences transcribed from the audio recording
 > - Topics: Thematic tags or phrases based on the conversations and events in the recording
 
-***Content Warning:*** **In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. Racial slurs are time-stamped below, in the layer titled "Trigger_Warnings."**
+***Content Warning:*** **In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. Racial slurs are time-stamped below, in the layer titled "Content_Warning."**
 
 #### Annotations by Kylie Warkentin and Bethany Radcliff
 
