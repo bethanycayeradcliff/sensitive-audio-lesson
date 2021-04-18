@@ -1,7 +1,6 @@
 ---
 layout: item
-title: Example Project using "'Criminal Syndicalism' case, McComb, Mississippi" from the John Beecher Collection at the Harry Ransom Center
-manifest_name: example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center
+title: Example Project
 permalink: example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/
 external_manifest_url: 
 ---
