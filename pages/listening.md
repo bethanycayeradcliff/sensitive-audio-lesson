@@ -20,3 +20,5 @@ For teaching in a classroom setting, we recommend focusing on a 1-2 minute porti
 ---
 
 <a name="footnote4">4</a>: Pinchevski A. (2011) Archive, Media, Trauma. In: Neiger M., Meyers O., Zandberg E. (eds) On Media Memory. Palgrave Macmillan Memory Studies. Palgrave Macmillan, London. [https://doi.org/10.1057/9780230307070_19](https://doi.org/10.1057/9780230307070_19)
+
+<a name="footnote5">5</a>: Hammond, Z. (2015). *Culturally Responsive Teaching and The Brain: Promoting Authentic Engagement and Rigor Among Culturally and Linguistically Diverse Students*. Corwin, a SAGE company.
