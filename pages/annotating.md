@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Annotating
+title: 3. Annotating
 permalink: annotating
 ---
 <!-- Add an essay or interpretive material below this line,
