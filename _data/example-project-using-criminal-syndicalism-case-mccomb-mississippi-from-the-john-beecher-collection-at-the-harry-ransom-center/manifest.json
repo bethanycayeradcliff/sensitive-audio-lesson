@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://bethanycayeradcliff.github.io/sensitive-audio-lesson/example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Example Project using \"'Criminal Syndicalism' case, McComb, Mississippi\" from the John Beecher Collection at the Harry Ransom Center" ] },
+    "homepage": [
+      {
+        "id": "https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37",
+        "type": "Text",
+        "label": { "en": [ "Example Project using \"'Criminal Syndicalism' case, McComb, Mississippi\" from the John Beecher Collection at the Harry Ransom Center" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.hrc.utexas.edu/",
+        "type": "Agent",
+        "label": { "en": [ "Harry Ransom Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://bethanycayeradcliff.github.io/sensitive-audio-lesson/example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 1004.0,
+        "items": [
+          {
+            "id": "https://bethanycayeradcliff.github.io/sensitive-audio-lesson/example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://bethanycayeradcliff.github.io/sensitive-audio-lesson/example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3",
+                  "type": "Sound",
+                  "format": "audio/mp3",
+                    "duration": 1004.0
+                },
+                "target": "https://bethanycayeradcliff.github.io/sensitive-audio-lesson/example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
