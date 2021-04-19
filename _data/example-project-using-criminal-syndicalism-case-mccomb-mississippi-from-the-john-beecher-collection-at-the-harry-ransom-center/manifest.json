@@ -27,6 +27,12 @@
           
           {
             "type": "AnnotationPage",
+            "id": "https://bethanycayeradcliff.github.io/sensitive-audio-lesson/example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/canvas-1/canvas/external_references_bethany.json",
+            "label": "External_References_Bethany"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
             "id": "https://bethanycayeradcliff.github.io/sensitive-audio-lesson/example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/canvas-1/canvas/transcription_bethany.json",
             "label": "Transcription_Bethany"
           }
