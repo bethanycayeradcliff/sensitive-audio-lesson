@@ -2,7 +2,7 @@
 layout: item
 title: Example Project
 permalink: example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center/
-external_manifest_url: 
+external_manifest_url: example-project-using-criminal-syndicalism-case-mccomb-mississippi-from-the-john-beecher-collection-at-the-harry-ransom-center
 ---
 <!-- Add an essay or interpretive material below this line,
 using HTML or markdown.  Do not modify this file above this line -->
