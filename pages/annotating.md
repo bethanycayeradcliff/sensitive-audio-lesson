@@ -15,14 +15,14 @@ Focus first on understanding the situation, events, and participants in the reco
 <br>
 
 
----
+
 <br>
 
 - What characteristics or events did I hear? (People talking, horns honking, clapping, etc.)
 - What stuck out to me in this recording? (Moments of laughter, tension, modern relevance, etc.)
 
 <br>
----
+
 <br>
 
 
@@ -35,14 +35,14 @@ Pushing a little further, you can make notes, answering the questions below to b
 
 <br>
 
----
+
 <br>
 - What did I notice about the events and the people in the recording? (People speaking angrily, movement around the room, fluctuation in applause, etc.)
 - How would I describe this?
 - What did I notice about the recording itself? (Clipping, increases/decreases in volume, etc.)
 - What are some topics or themes associated with this recording? (Topics, speakers, etc.)
 <br>
----
+
 <br>
 
 Any of your responses to these questions and those previous can become annotations. It’s important to realize that annotating is almost always a slow and tedious process, and will likely involve listening and re-listening to your audio sample, perhaps even in multiple sessions. This may not be an easy process with any audio recording, but might be especially challenging with more sensitive audio. Focusing on a portion of the audio as suggested above can make the annotating process more digestible.
@@ -51,13 +51,13 @@ You might also consider the challenges of listening to and interpreting the audi
 For example, you might ask yourself: 
 
 <br>
----
+
 <br>
 - What makes annotating this recording challenging? (volume changes in tape, emotional moments, lack of context, etc.)
 - What context am I missing? What am I uncertain about? (location of meeting, time of day, unsure of speakers, challenging to locate context about specific events, unidentifiable noises, etc.)
 - What might I research more in-depth as I consider this recording? (the students who were arrested, more information about the events surrounding the meeting, what is criminal syndicalism?, etc.)
 <br>
----
+
 <br>
 
 A helpful framework for writing annotations can be  to think of “categories” for annotation features and can make the annotating process less overwhelming and more generative. As you begin to think about and notice the  events and moments you might annotate, you can begin to think of categories that you might annotate. For example, if you notice environmental sounds (like cars horns or birds in the background), you might create a  category or list for annotations in the category of environmental sounds. If you are adding annotations that focus on transcription of the audio, you could create a category for transcript. This method will be helpful later when you begin formatting your annotation layers for uploading to AudiAnnotate, as described below. 
