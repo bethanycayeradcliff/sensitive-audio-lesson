@@ -14,20 +14,21 @@ Below is a set of sample annotations created for the Beecher “Syndicalism” r
 
 <img src="Pages-Images/Lesson Plan Images/AAProjectImage.png" width="500">
 
-
+<br> 
 
 
 > **_Classrooom Suggestion:_** 
 After working together to choose annotation categories students can begin to create or format their annotations. The students can create annotations in a spreadsheet as shown above, using our Google sheets annotation [template](https://docs.google.com/spreadsheets/d/1ImjhjLD1g-lQulJX3UJe4Y91z04EOriYCqiN1rz9gnw/copy#gid=0) with formatting instructions. We suggest each student contribute at least one sentence of transcription and one commentary annotation, though we of course encourage further annotation. 
 
 
-
+<br> 
 
 Uploading and Presenting Audio for AudiAnnotate
 After you have created your annotations, you’ll add them to your AudiAnnotate project. To do so, you will sign in to the AudiAnnotate application (after authenticating GitHub) to create a project. 
 
-
+<br> 
 ---
+<br> 
 
 **As mentioned above, this recording is hosted on the [Harry Ransom Center’s CONTENTdm site](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37), but the direct link to the audio (while publicly accessible for listening and downloading) is not supported by AudiAnnotate at this time. The Ransom Center provided [a working link to the audio](https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3) which you will need when creating your AudiAnnotate project.** 
 
