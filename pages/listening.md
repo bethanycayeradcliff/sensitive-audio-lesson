@@ -13,13 +13,14 @@ We have structured the lesson in a way that is aware of this mode of listening a
  
 With this in mind, take some time to listen to the recording, or the portion you will be annotating. The steps below will help you think about ways to create and organize  annotations. 
 
+<br> 
 
 > **_Classrooom Suggestion:_** 
 For teaching in a classroom setting, we recommend focusing on a 1-2 minute portion of the audio to ensure students have sufficient time to listen, process, and engage critically with the content. In the Beecher recording, we recommend the clip from 14:07-15:37 for classroom discussion, where the recently released students discuss their limited recreational privileges and lack of sufficient nutrition and have many surprising moments of levity. This particular clip does not contain racist slurs, but due to the overall sensitivity of this recording, students should still read the content warning and summary before listening.  
 
-
-
-
+<br> 
+<br> 
+<br> 
 
 
 ---  
