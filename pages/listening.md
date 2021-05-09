@@ -24,9 +24,7 @@ For teaching in a classroom setting, we recommend focusing on a 1-2 minute porti
 
 
 ---  
-
-
-
+<br> 
 
 <a name="footnote4">4</a>: Pinchevski A. (2011) Archive, Media, Trauma. In: Neiger M., Meyers O., Zandberg E. (eds) On Media Memory. Palgrave Macmillan Memory Studies. Palgrave Macmillan, London. [https://doi.org/10.1057/9780230307070_19](https://doi.org/10.1057/9780230307070_19)
 
