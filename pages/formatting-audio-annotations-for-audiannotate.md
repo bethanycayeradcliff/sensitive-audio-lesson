@@ -34,8 +34,6 @@ After you have created your annotations, you’ll add them to your AudiAnnotate 
 
 <br>
 
----
-<br>
 
 Documentation for creating a project, adding a link to your audio file, and uploading your annotation layers to your AudiAnnotate project can be found [here](https://hipstas.github.io/AudiAnnotate/documentation.html#project). 
 
