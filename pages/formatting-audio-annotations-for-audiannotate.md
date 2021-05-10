@@ -8,7 +8,7 @@ using HTML or markdown.  Do not modify this file above this line -->
 
 AudiAnnotate accepts structured annotations for upload in .tsv format. There are many methods for formatting your annotations. You can use a software application, such as Audacity, or a simple spreadsheet. Details on how to do so can be found in the [AudiAnnotate documentation](https://hipstas.github.io/AudiAnnotate/documentation.html#supplemental).
 
-Below is a set of sample annotations created for the Beecher “Syndicalism” recording project found on AudiAnnotate. The layer titles (“Environment_Kylie,” “Transcription_Bethany”) came from categories ([like the ones described in the previous section(https://bethanycayeradcliff.github.io/sensitive-audio-lesson/annotating)) described and decided upon by the creators of the project. Note: Each .tsv file is one annotation layer in AudiAnnotate. If you have multiple annotation layers, you will need multiple annotations files. 
+Below is a set of sample annotations created for the Beecher “Syndicalism” recording project found on AudiAnnotate. The layer titles (“Environment_Kylie,” “Transcription_Bethany”) came from categories ([like the ones described in the previous section](https://bethanycayeradcliff.github.io/sensitive-audio-lesson/annotating)) described and decided upon by the creators of the project. Note: Each .tsv file is one annotation layer in AudiAnnotate. If you have multiple annotation layers, you will need multiple annotations files. 
 
 <br>
 
