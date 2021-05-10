@@ -22,6 +22,7 @@ In general, when selecting the audio material with which you’ll be working, yo
 
 This audio reel was recorded on October 19, 1964, likely by John Beecher’s wife, Barbara Beecher, on the portable reel-to-reel machine she operated. At the time, John Beecher, the great-great nephew of Harriet Beecher Stowe and Henry Ward Beecher, was working as a journalist, reporting on the Civil Rights movement in the South. The recording begins with John Beecher and members of Council of Federated Organizations (COFO) meeting with Black high school students and their parents after these students were released from jail in McComb, Mississippi on charges of criminal syndicalism, in which it seems the students have been falsely accused of damaging property by throwing a brick. Beecher speaks with the group about the importance of voting and fighting for equal treatment in the voting process. A white member of COFO discusses how his experience in jail was different than that of the Black students, how he was released without bond, and that his release was sooner. The students discuss the conditions in the jail and the treatment by policemen and guards. The parents of the students discuss how they were discriminated against, given limited interaction with their children, and how officers made visits a challenge.
 
+<br>
 
 ### Content Warning
 
@@ -30,9 +31,9 @@ In this recording, a racial slur is used at 16:06 by a student quoting the langu
 <br>
 
 ---
-
+<br>
 **This recording is hosted on the [Harry Ransom Center’s CONTENTdm site](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37), but the direct link to the audio (while publicly accessible for listening and downloading) is not supported by AudiAnnotate at this time. The Ransom Center provided [a working link to the audio](https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3), which you will need when creating your AudiAnnotate project in later lesson steps.** 
-
+<br>
 ---
 
 <br>
