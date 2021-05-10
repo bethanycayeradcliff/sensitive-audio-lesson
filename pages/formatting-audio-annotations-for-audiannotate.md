@@ -58,4 +58,7 @@ A second approach to using this lesson would require that students have more tim
 
 
 <br>
+
+<a name="footnote6">6</a>: Kalir, R., & Garcia, A. (2019). Chapter 6. In Annotation. Retrieved from [https://mitpressonpubpub.mitpress.mit.edu/pub/451exgdi](https://mitpressonpubpub.mitpress.mit.edu/pub/451exgdi)
+
 <a name="footnote7">7</a>: See [Hypothesis for Education](https://web.hypothes.is/education/) for further information and ways to implement Hypothesis into the classroom.
