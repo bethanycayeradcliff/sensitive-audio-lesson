@@ -16,6 +16,7 @@ We have structured this lesson in a way that seeks to be mindful of trauma-infor
 
 In general, when selecting the audio material with which you’ll be working, you should review the holding institution's language in describing and categorizing the audio for cues in handling, listening to, and ultimately presenting your chosen audio material. While some holding institutions may not have content warnings or descriptions of sensitive content for individual items, other institutions will have some kind of acknowledgement of troubling content or metadata listed either on the holding institution's main site or collection page for the item. We recommend you look towards these places for language cues first.<sup>[3](#footnote3)</sup> For example, the Harry Ransom Center contextualizes the Beecher Sound Collection [here](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1), but at this time does not include a specific content warning related to the racist language in the tapes. The Ransom Center’s [statement](https://www.hrc.utexas.edu/policies/language-statement/) on outdated language shares a general warning that users may encounter sensitive, offensive, or outdated information in descriptions of archival materials.
 
+<br>
 
 ### About the Beecher “Syndicalism” Recording
 
@@ -26,16 +27,22 @@ This audio reel was recorded on October 19, 1964, likely by John Beecher’s wif
 
 In this recording, a racial slur is used at 16:06 by a student quoting the language said to them by a police officer while in jail. There is also explicit language used at 15:49, 16:30, and 16:39 by students quoting white police officers. At times in the recording, African American students and their parents are discussing mistreatment and trauma they experienced while the students were imprisoned. 
 
+<br>
+
 ---
 
 **This recording is hosted on the [Harry Ransom Center’s CONTENTdm site](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37), but the direct link to the audio (while publicly accessible for listening and downloading) is not supported by AudiAnnotate at this time. The Ransom Center provided [a working link to the audio](https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3), which you will need when creating your AudiAnnotate project in later lesson steps.** 
 
 ---
 
+<br>
+
 > **_Classrooom Suggestion:_** 
 For classroom settings, make sure you follow your school’s guidelines for classroom work involving potentially upsetting or controversial material. While we recognize the value and necessity of having difficult conversations, we also recommend discussing class expectations repeatedly and prior to working with these types of materials. You may also choose to modify the lesson introductory materials to add the necessary context for the material your class is working with based on your class’s learning objectives. To minimize student harm and risk When working with sensitive audio, we recommend having a secondary recording for students who express a high level of discomfort to work with that may explore similar themes, but not include explicit or triggering language.  The Studs Terkel Radio Archive provides a number of [related resources and audio recordings](https://studsterkel.wfmt.com/classroom) geared at classroom use. 
 
 ---
+<br>
+<br>
 
 <a name="footnote2">2</a>: Carello, J., & Butler, L. D. (2015). Practicing What We Teach: Trauma-informed Educational Practice. *Journal of Teaching in Social Work*, 35(3), 262-278. doi:10.1080/08841233.2015.1030059
 
