@@ -30,11 +30,11 @@ In this recording, a racial slur is used at 16:06 by a student quoting the langu
 
 <br>
 
----
+
 <br>
 **This recording is hosted on the [Harry Ransom Center’s CONTENTdm site](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37), but the direct link to the audio (while publicly accessible for listening and downloading) is not supported by AudiAnnotate at this time. The Ransom Center provided [a working link to the audio](https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3), which you will need when creating your AudiAnnotate project in later lesson steps.** 
 <br>
----
+
 
 <br>
 
