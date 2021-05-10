@@ -12,7 +12,7 @@ Below is a set of sample annotations created for the Beecher “Syndicalism” r
 
 <br>
 
-<img src="Pages-Images/Lesson Plan Images/AAProjectImage.png" width="500">
+<img src="images/AAProjectImage.png" width="500">
 
 <br> 
 
