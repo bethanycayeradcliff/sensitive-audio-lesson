@@ -32,8 +32,10 @@ After you have created your annotations, you’ll add them to your AudiAnnotate 
 
 **As mentioned above, this recording is hosted on the [Harry Ransom Center’s CONTENTdm site](https://hrc.contentdm.oclc.org/digital/collection/p15878coll1/id/37), but the direct link to the audio (while publicly accessible for listening and downloading) is not supported by AudiAnnotate at this time. The Ransom Center provided [a working link to the audio](https://norman.hrc.utexas.edu/audioFiles/open/R_0124_01_01_acc_20091001.mp3) which you will need when creating your AudiAnnotate project.** 
 
----
+<br>
 
+---
+<br>
 
 Documentation for creating a project, adding a link to your audio file, and uploading your annotation layers to your AudiAnnotate project can be found [here](https://hipstas.github.io/AudiAnnotate/documentation.html#project). 
 
@@ -41,10 +43,12 @@ Once you have created your project page and added annotations, you will now be a
 
 Because this particular audio is sensitive and has potentially offensive moments, we recommend adding a content warning above your project by editing the introductory text. You can find steps on how to edit that text in our [documentation](https://hipstas.github.io/AudiAnnotate/documentation.html#supplemental). The introductory text is also a great place to add any other contextual material, commentary, or provenance necessary to introduce your audio project. Remember: context is important when exposing large, varied researchers to sensitive material. 
 
-
+<br>
 
 > **_Classrooom Suggestion:_** 
 Because AudiAnnotate presents audio and associated annotations publicly on the web, there are a few different ways to implement this final step in a classroom setting. 
+
+<br>
  
 First, the teacher could manage project creation and focus the student lesson on generating annotations. Students could then use Hypothesis to comment on each other’s work, facilitating further discussion of the audio recording and the annotation process (see [Chapter 6 of *Annotation*](https://mitpressonpubpub.mitpress.mit.edu/pub/451exgdi/release/1), by Remi Kalir and Antero Garcia  for further discussion of learning extensions with annotation).<sup>[6](#footnote6)</sup> 
 
