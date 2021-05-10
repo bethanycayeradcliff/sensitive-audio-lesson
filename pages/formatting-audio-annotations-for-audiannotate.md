@@ -55,3 +55,7 @@ First, the teacher could manage project creation and focus the student lesson on
 
 
 A second approach to using this lesson would require that students have more time in class to grow familiar with working with AudiAnnotate and GitHub. Here, the teacher could create a collaborative project on AudiAnnotate by following the steps in our [documentation](https://hipstas.github.io/AudiAnnotate/documentation.html#collaborative). In this scenario, students would have more autonomy in adding layers and annotation to the final product (vs. the teacher as the final reviewer in the previous scenario). Here, too, Hypothesis would be a valuable tool in adding comments and suggestions to other projects. The teacher may even choose to use Hypothesis as an evaluative tool, adding comments, supplementary material, or grades as necessary.<sup>[7](#footnote7)</sup>
+
+
+<br>
+<a name="footnote7">7</a>: See [Hypothesis for Education](https://web.hypothes.is/education/) for further information and ways to implement Hypothesis into the classroom.
