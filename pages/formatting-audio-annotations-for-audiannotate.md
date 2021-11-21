@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 4. Formatting Audio Annotations for AudiAnnotate
+title: 4. Formatting Audio Annotations
 permalink: formatting-audio-annotations-for-audiannotate
 ---
 <!-- Add an essay or interpretive material below this line,
